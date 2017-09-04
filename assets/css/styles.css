@@ -121,8 +121,15 @@ iframe {
   border-top: 10px solid #778492;
 }
 .header .btn {
-  margin-top: 60px;
+  /*margin-top: 60px;*/
   font-weight: bold;
+  /*width: 80px;*/
+}
+.header .btn1h{
+  margin-top: 45px;
+}
+.header .btn2h{
+  margin-top: 10px;
 }
 .header .profile-image {
   margin-right: 30px;
@@ -560,6 +567,10 @@ iframe {
   height: 200px;
 }
 .project_time{
-	float:right;
+	/*float:right;*/
+  font-style: italic;
 	font-size:15px;
+}
+h3.project_title{
+  text-decoration: underline;
 }
